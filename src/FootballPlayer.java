@@ -248,7 +248,7 @@ public class FootballPlayer {
         
         //Task 8
         System.out.println("");
-        if (category=="Prime Player"  ){
+        if (category=="Prime player"  ){
             if (weight<80){
                 System.out.println(" Player in starting lineup");
             }
